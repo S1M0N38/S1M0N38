@@ -1,4 +1,18 @@
-## Hi, I'm Simo
+<h3 align="center">Hi, I'm Simo</h1>
+
+<div align="center"><p>
+    <a href="https://discord.com/users/S1M0N38#0317">
+      <img alt="Discord profile" src="https://img.shields.io/static/v1?label=DISCORD&message=DM&color=7289DA&style=for-the-badge" />
+    </a>
+    <a href="https://www.reddit.com/user/S1M0N38">
+      <img alt="Reddit profile" src="https://img.shields.io/static/v1?label=REDDIT&message=USER&color=FF6F6F&style=for-the-badge" />
+    </a>
+    <a href="https://github.com/S1M0N38">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/S1M0N38?style=for-the-badge&color=50C878&label=GH%20STARS" />
+    </a>
+</div>
+
+______________________________________________________________________
 
 ##### Reserach
 
@@ -18,7 +32,7 @@
 - 🛠️ [`my-awesome-plugin.nvim`](https://github.com/S1M0N38/my-awesome-plugin.nvim): template for Neovim plugin
 - 👾 [`love2d.nvim`](https://github.com/S1M0N38/love2d.nvim): simple Neovim plugin to build games with LÖVE
 - ✨ [`ai.nvim`](https://github.com/S1M0N38/ai.nvim): query LLMs following OpenAI API specification
-- ✍️ [`dante.nvim`](): basic writing tool powered by LLM
+- ✍️ [`dante.nvim`](https://github.com/S1M0N38/dante.nvim): basic writing tool powered by LLM
 
 ##### Misc
 
@@ -27,12 +41,3 @@
 - 💬 [`Telegram-GPT`](https://github.com/S1M0N38/Telegram-GPT): chatGPT as Telegram Bot
 - 🕹️ [`tetris`](https://github.com/S1M0N38/tetris): simple terminal tetris
 - 🧑‍💻 [`s1mon38.github.io`](https://s1m0n38.github.io/): personal website (WIP)
-
-... [and more](https://github.com/S1M0N38?tab=repositories)
-<!--
-**S1M0N38/S1M0N38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
-
-
