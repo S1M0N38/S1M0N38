@@ -26,7 +26,7 @@
 - 🔄 [`har2py`](https://github.com/S1M0N38/har2py): convert .har file in python requests scripts
 - 💬 [`Telegram-GPT`](https://github.com/S1M0N38/Telegram-GPT): chatGPT as Telegram Bot
 - 🕹️ [`tetris`](https://github.com/S1M0N38/tetris): simple terminal tetris
-- 🧑‍💻 [`s1mon38.github.io`](s1m0n38.github.io/): personal website
+- 🧑‍💻 [`s1mon38.github.io`](https://s1m0n38.github.io/): personal website (WIP)
 
 ... [and more](https://github.com/S1M0N38?tab=repositories)
 <!--
