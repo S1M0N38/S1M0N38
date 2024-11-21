@@ -19,7 +19,7 @@ ______________________________________________________________________
 - 🦙 [`my-ollama-notes`](https://github.com/S1M0N38/my-ollama-notes): notes about running ollama
 - 🔎 [`dspy-arxiv`](https://github.com/S1M0N38/dspy-arxiv): explore the use of DSPy for extracting features from PDFs
 - 📄 [`semantic-encodings`](https://github.com/S1M0N38/semantic-encodings): injecting semantics to drive image classifiers
-- 📄 [`LGCD`](https://github.com/S1M0N38/semantic-encodings): LLM-Generated Class Descriptions for Semantically Meaningful Image Classification
+- 📄 [`LGCD`](https://github.com/S1M0N38/LGCD): LLM-Generated Class Descriptions for Semantically Meaningful Image Classification
 - 🗄️ [`cr-analysis`](https://github.com/S1M0N38/cr-analysis) & [`DB on Kaggle`](https://www.kaggle.com/datasets/s1m0n38/clash-royale-games): an exercise of data collection/analysis
 - 🏆 [`reddit`](https://github.com/S1M0N38/reddit): gender classifier for Reddit, #1 Kaggle competition
 - 🕸️ [`matchmaking-networks`](https://github.com/S1M0N38/matchmaking-networks): lichess DB as matchmaking network
