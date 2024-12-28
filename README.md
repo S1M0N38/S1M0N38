@@ -2,7 +2,7 @@
 
 ______________________________________________________________________
 
-##### Reserach
+##### Research
 
 - 🦙 [`my-ollama-notes`](https://github.com/S1M0N38/my-ollama-notes): notes about running ollama
 - 🔎 [`dspy-arxiv`](https://github.com/S1M0N38/dspy-arxiv): explore the use of DSPy for extracting features from PDFs
