@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Simo – <img src="https://img.shields.io/github/stars/S1M0N38?style=flat&label=✭" alt="GitHub stars"></h3>
+<h3 align="center">Hi, I'm Simo – <img src="https://img.shields.io/github/stars/S1M0N38?style=flat&label=%E2%9C%AD" alt="GitHub stars"></h3>
 
 ______________________________________________________________________
 
