@@ -1,16 +1,4 @@
-<h3 align="center">Hi, I'm Simo</h1>
-
-<div align="center"><p>
-    <a href="https://discord.com/users/S1M0N38#0317">
-      <img alt="Discord profile" src="https://img.shields.io/static/v1?label=DISCORD&message=DM&color=7289DA&style=for-the-badge" />
-    </a>
-    <a href="https://www.reddit.com/user/S1M0N38">
-      <img alt="Reddit profile" src="https://img.shields.io/static/v1?label=REDDIT&message=USER&color=FF6F6F&style=for-the-badge" />
-    </a>
-    <a href="https://github.com/S1M0N38">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/S1M0N38?style=for-the-badge&color=50C878&label=GH%20STARS" />
-    </a>
-</div>
+<h3 align="center">Hi, I'm Simo – <img src="https://img.shields.io/github/stars/S1M0N38?style=flat&label=✭" alt="GitHub stars"></h3>
 
 ______________________________________________________________________
 
