@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Simo – <img src="https://img.shields.io/github/stars/S1M0N38?style=flat&label=%E2%9C%AD" alt="GitHub stars"></h3>
+<h3 align="center">Hi, I'm Simo</h3>
 
 ______________________________________________________________________
 
@@ -32,3 +32,7 @@ ______________________________________________________________________
 - 💬 [`telegram-GPT`](https://github.com/S1M0N38/Telegram-GPT): chatGPT as Telegram Bot
 - 🕹️ [`tetris`](https://github.com/S1M0N38/tetris): simple terminal tetris
 - 🧑‍💻 [`s1mon38.github.io`](https://s1m0n38.github.io/): personal website (WIP)
+
+______________________________________________________________________
+
+<p align="center"><img src="https://img.shields.io/github/stars/S1M0N38?style=flat&label=%E2%9C%AD" alt="GitHub stars"></p>
