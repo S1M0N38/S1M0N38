@@ -24,6 +24,7 @@ ______________________________________________________________________
 - ♡ [`love2d.nvim`](https://github.com/S1M0N38/love2d.nvim): simple Neovim plugin to build games with LÖVE
 - ✧ [`ai.nvim`](https://github.com/S1M0N38/ai.nvim): query LLMs following OpenAI API specification
 - ✎ [`dante.nvim`](https://github.com/S1M0N38/dante.nvim): basic writing tool powered by LLM
+- ⇋ [`chatml.nvim`](https://github.com/S1M0N38/chatml.nvim): LLM requests (JSON) ⇋ markdown & sent requests
 
 ##### Misc
 
