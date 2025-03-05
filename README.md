@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Simo</h3>
 
-______________________________________________________________________
+---
 
 ##### Research
 
@@ -8,15 +8,15 @@ ______________________________________________________________________
 - 🔄 [`chat-completion-md`](https://github.com/S1M0N38/chat-completion-md): Convert OpenAI chat completion request to markdown and vice versa
 - 🦙 [`my-ollama-notes`](https://github.com/S1M0N38/my-ollama-notes): notes about running Ollama
 - 🔎 [`dspy-arxiv`](https://github.com/S1M0N38/dspy-arxiv): explore the use of DSPy for extracting features from PDFs
-- 📄 [`semantic-encodings`](https://github.com/S1M0N38/semantic-encodings): injecting semantics to drive image classifiers
-- 📄 [`LGCD`](https://github.com/S1M0N38/LGCD): LLM-Generated Class Descriptions for Semantically Meaningful Image Classification
+- 📄 [`semantic-encodings`](https://github.com/S1M0N38/semantic-encodings): “Injecting Semantics to Drive Image Classifiers”
+- 📄 [`LGCD`](https://github.com/S1M0N38/LGCD): “LLM-Generated Class Descriptions for Semantically Meaningful Image Classification”
 - 🗄️ [`cr-analysis`](https://github.com/S1M0N38/cr-analysis) & [`DB on Kaggle`](https://www.kaggle.com/datasets/s1m0n38/clash-royale-games): an exercise of data collection/analysis
 - 🏆 [`reddit`](https://github.com/S1M0N38/reddit): gender classifier for Reddit, #1 Kaggle competition
 - 🕸️ [`matchmaking-networks`](https://github.com/S1M0N38/matchmaking-networks): Lichess DB as matchmaking network
 - 🌀 [`dynamical-systems`](https://github.com/S1M0N38/dynamical-systems): numerical exps for Dynamical Systems course
-- 👶 [`high-school-thesis`](https://github.com/S1M0N38/high-school-thesis): *Il mito dell'intelligenza artificiale*
-- 👦 [`bachelor-thesis`](https://github.com/S1M0N38/bachelor-thesis): *Higher-Order Lagrangians in classical and quantum systems*
-- 🧑‍🦱 [`master-thesis`](https://github.com/S1M0N38/master-thesis), [`master-thesis-code`](https://github.com/S1M0N38/master-thesis-code) & [`master-thesis-datasets`](https://github.com/S1M0N38/master-thesis-datasets): *Semantic Transfer Learning*
+- 👶 [`high-school-thesis`](https://github.com/S1M0N38/high-school-thesis): “Il mito dell'intelligenza artificiale”
+- 👦 [`bachelor-thesis`](https://github.com/S1M0N38/bachelor-thesis): “Higher-Order Lagrangians in classical and quantum systems”
+- 🧑‍🦱 [`master-thesis`](https://github.com/S1M0N38/master-thesis), [`master-thesis-code`](https://github.com/S1M0N38/master-thesis-code) & [`master-thesis-datasets`](https://github.com/S1M0N38/master-thesis-datasets): “Semantic Transfer Learning”
 
 ##### Neovim
 
@@ -34,6 +34,6 @@ ______________________________________________________________________
 - 🕹️ [`tetris`](https://github.com/S1M0N38/tetris): simple terminal tetris
 - 🧑‍💻 [`s1mon38.github.io`](https://s1m0n38.github.io/): personal website (WIP)
 
-______________________________________________________________________
+---
 
 <p align="center"><img src="https://img.shields.io/github/stars/S1M0N38?style=flat&label=%E2%9C%AD" alt="GitHub stars"></p>
