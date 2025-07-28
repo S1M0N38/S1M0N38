@@ -4,6 +4,7 @@
 
 ##### Research
 
+- 🕵 [`llm-fingerprint`](https://github.com/S1M0N38/llm-fingerprint): Identify LLMs by their response fingerprints
 - 🌡️ [`llm-thermometer`](https://github.com/S1M0N38/llm-thermometer): Estimate LLMs temperature from generated text
 - 🔗 [`mcp-openai`](https://github.com/S1M0N38/mcp-openai): MCP Client with OpenAI compatible API
 - 🔄 [`chat-completion-md`](https://github.com/S1M0N38/chat-completion-md): Convert OpenAI chat completion request to markdown and vice versa
@@ -34,7 +35,7 @@
 - 🔄 [`har2py`](https://github.com/S1M0N38/har2py): convert .har file in python requests scripts
 - 💬 [`telegram-GPT`](https://github.com/S1M0N38/Telegram-GPT): chatGPT as Telegram Bot
 - 🕹️ [`tetris`](https://github.com/S1M0N38/tetris): simple terminal tetris
-- 🧑‍💻 [`s1mon38.github.io`](https://s1m0n38.github.io/): personal website (WIP)
+- 🃏 [`balatrobot`](https://github.com/S1M0N38/balatrobot): a framework for Balatro bot development
 
 ---
 
