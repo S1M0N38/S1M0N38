@@ -28,6 +28,7 @@
 - ✎ [`dante.nvim`](https://github.com/S1M0N38/dante.nvim): basic writing tool powered by LLM
 - ⇋ [`chatml.nvim`](https://github.com/S1M0N38/chatml.nvim): LLM requests (JSON) ⇋ markdown & sent requests
 - ⧉ [`ctx.nvim`](https://github.com/S1M0N38/ctx.nvim): Quickfix / Location List Items → Markdown
+- ⌖ [`ccusage.nvim`](https://github.com/S1M0N38/ccusage.nvim): Track Claude Code usage in Neovim
 
 ##### Misc
 
