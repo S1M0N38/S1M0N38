@@ -4,6 +4,7 @@
 
 ##### Research
 
+- ♟️ [`chess-cv`](https://github.com/S1M0N38/chess-cv): CNN-based chess piece classifier
 - 🕵 [`llm-fingerprint`](https://github.com/S1M0N38/llm-fingerprint): Identify LLMs by their response fingerprints
 - 🌡️ [`llm-thermometer`](https://github.com/S1M0N38/llm-thermometer): Estimate LLMs temperature from generated text
 - 🔗 [`mcp-openai`](https://github.com/S1M0N38/mcp-openai): MCP Client with OpenAI compatible API
