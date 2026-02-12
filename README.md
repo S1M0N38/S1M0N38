@@ -37,7 +37,7 @@
 - 🔄 [`har2py`](https://github.com/S1M0N38/har2py): convert .har file in python requests scripts
 - 💬 [`telegram-GPT`](https://github.com/S1M0N38/Telegram-GPT): chatGPT as Telegram Bot
 - 🕹️ [`tetris`](https://github.com/S1M0N38/tetris): simple terminal tetris
-- 🃏 [`balatrobot`](https://github.com/S1M0N38/balatrobot): a framework for Balatro bot development
+- 🃏 [`balatrobot`](https://github.com/coder/balatrobot), [`balatrollm`](https://github.com/coder/balatrollm) & [`balatrobench`](https://github.com/coder/balatrobench): Bot/LLM framework for playing Balatro 
 
 ---
 
